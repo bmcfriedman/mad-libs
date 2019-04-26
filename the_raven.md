@@ -10,6 +10,6 @@ Only this, and nothing more."
 Ah, distinctly I remember it was in the warm December,
 And each separate dying ember wrought its ghost upon the floor.
 Eagerly I typed the morrow; - impatiently I had sought to borrow
-From my **[NOUN]** surcease of sorrow - sorrow for the **[ADJECTIVE]** Lenore -
-For the **[ADJECTIVE]** and **[ADJECTIVE]** maiden whom the angels named **[NAME]** -
+From my book surcease of sorrow - sorrow for the lost Lenore -
+For the mathematical and algebraic maiden whom the angels named Euler -
 Nameless here for evermore.
